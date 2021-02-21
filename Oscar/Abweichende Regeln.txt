@@ -1,0 +1,264 @@
+Wir werden mit abweichenden Regeln spielen, da diese mehr 
+Tiefe bieten oder einfach sinnvoller sind als die im 
+Regelwerk angegebenen. Zu dem werden auch einige Hausregeln 
+in diesem Kapitel erwähnt, die für uns erstellt wurden.
+Welche Regeln für das Abenteuer gelten, wird in einer 
+seperaten Liste von der Spielmutter geschickt.
+
+1. Fertigkeitsänderungen
+Die Fertigkeit "Überleben" wird in "Wissenschaften" geändert. 
+Überleben wird in den seltensten Fällen gebraucht und kann 
+gut mit "Wahrnehmung" und "Beweglichkeit" ausgeführt werden. 
+Wissenschaft erlaubt es den Spielern Charaktere zu spielen, 
+die sich in den Weiten des Alls mithilfe von Physik, Chemie, 
+Biologie und anderem einen Weg suchen.
+Daher sind auch folgende Änderungen nötig:
+Die Fertigkeit Überleben wird bei dem Wissenschaftler durch 
+Wissenschaft ersetzt.
+Der Beruf Kind ersetzt Überleben mit Comtech.
+Der Arzt ersetzt Beweglichkeit mit Wissenschaft.
+
+Die Wissenschaftstalente Analysieren und Durchbruch laufen 
+von nun an über Wissenschaft.
+
+Der Weyland-Yutani APE-Anzug erhält einen +3 Bonus auf alle 
+Ausdauerwürfe in feindlicher Umgebung.
+Beschreibung:
+Das All ist ein Ort voller Geheimnisse und noch nicht alle 
+wurden endeckt. Es liegt an dir sie zu finden und zu lüften. 
+Wenn du einen interessanten Stein findest, oder vor einer dir 
+unbekannten Substanz stehst, kannst du auf Wissenschaft 
+würfeln um Informationen über diesen Gegenstand 
+herauszufinden.
+Misserfolg: Du hast keine Ahnung was genau du vor dir hast. 
+Im besten Fall hast du eine wage Vermutung.
+Erfolg: Du findest heraus was der Gegenstand ist oder wozu 
+er verwendet werden kann.
+Stunts: Für jeden zusätzlichen Erfolg kannst du einen der 
+Situation angemessenen Stunt wählen:
+-Du erhälst einen Modifikator von +1 auf einen späteren 
+Fertigkeitswurf, der mit dieser Aktion zusammenhängt.
+-Du findest eine weitere Eigenschaft über das Subjekt 
+hinaus.
+-Du zeigst allen was für ein toller Hengst du bist.
+
+2. Gravitation
+Dein Charakter hat ein Verständnis von Gravitation aber er 
+muss sich an verschiedenste Gravitationen anpassen.
+Die Einteilung der Gravitation geht immer von der Heimatwelt 
+aus. in den Klammern hinter der Einteilung steht, wie stark 
+die aktuelle Gravitation von der auf deiner Heimatwelt 
+abweichen muss, um auf dich angewendet zu werden. HG steht 
+dabei für Heimatweltgravitation.
+Höhere Gravitation kann auch beim Starten von Raumschiffen 
+auftreten und werden dabei nur kurzfristig angewendet. 
+Langfristige Anwednungen bedeuten, dass die kurzfristigen 
+Auswirkungen zuerst in Kraft treten. 
+
+2.1 Zero-G
+Wenn du dich bei 0G bewgen willst, musst du dich irgendwo 
+abstoßen oder aber festhalten. Im Kampf sind das beides 
+schnelle Aktionen. Wenn du eine Waffe abfeuerst, kannst du 
+deine Bewegung verlangsamen aber nur bei einer 
+vollautomatischen Salve kannst du die Richtung ändern.
+Zudem erfordert eine Bewegung bei 0G einen Wurf auf Bewegung.
+
+2.2 Low-G (Weniger als die Hälfte der HG)
+Bei niedriger Gravitation erhälst du einen Bonus von +2 auf 
+alle Beweglichkeitswürfe. 
+
+2.3 Medium-G (HG*1,5 bis HG*4)
+Bei hoher Gravitation erhälst du einen Malus von -1 auf alle 
+Verstandswürfe und einen Malus von -2 auf alle Stärke- und 
+Geschicklichkeitswürfe. Die Ausnahme sind Würfe auf Ausdauer.
+Zudem musst du doppelt so viele Luftvorratswürfe ablegen.
+
+2.4 High-G (HG*5 bis HG*10)
+Bei einer kurzen Dauer erhöht sich der Malus von 
+Verstandswürfen von -1 auf -2. Am Ende einer Runde musst du 
+einen Ausdauerwurf machen um nicht ohnmächtig zu werden.
+Auf lange Zeit musst du zusätzlich einen Ausdauerwurf jede 
+Stunde machen. Ein Misserfolg bedeutet, dass du einen Punkt 
+Schaden erhälst und ohnmächtig wirst. Bist du ohnmächtig, 
+machst du einen Ausdauerwurf um wieder aufzuwachen.
+Wenn du durch die Gravitation gebrochen wirst, darfst du 
+einen Ausdauerwurf machen. Schlägt dieser fehlt, platzt eine 
+Ader und Blut strömt in dein Gehirn, wodurch du sofort 
+stirbst.
+
+2.5 Deadly-G (Alles über dem zehnfachen der HG)
+Alle Würfe auf Stärke, Geschicklichkeit und Verstand haben 
+einen Malus von -3. Am Ende einer Runde machst du einen 
+Ausdauerwurf. Schlägt dieser fehl, nimmst du 2+3W6 Schaden 
+und wirst ohnmächtig.
+Wenn du durch die Gravitation gebrochen wirst, darfst du 
+einen Ausdauerwurf machen. Schlägt dieser fehlt, platzt eine 
+Ader und Blut strömt in dein Gehirn, wodurch du sofort 
+stirbst.
+
+3. Vorratsgüter
+Luft, Wasser, Nahrung und Energie sind Vorratsgüter bei dem 
+ALIEN TTRPG. Da es bei Nahrung und Wasser nicht sonderlich 
+viel Sinn macht darauf zu würfeln ob man 3 von seinen 
+5 Schokoriegeln wegisst oder keinen, führen wir direkt Buch 
+darüber. Lediglich Luft und Energie werden nach Regelwerk 
+verbraucht.
+
+4. Munition
+Die Munition spielt im Regelwerk eine kleine Rolle, doch 
+diese ist gerade bei einem Angriff unglaublich wichtig. Mit 
+dieser Regel wird jede Waffe im Spiel ein Magazin besitzen.
+Munition kostet pro Kugel für Pistolen immer 1$, Gewehre 2$ 
+und Schwere Waffen 3$.
+
+5. Winterkleidung
+An kalten Orten ist es - wer hätts gedacht - kalt. Dafür gibt 
+es Winterkleidung. Wenn du Winterkleidung trägst, erhälst du 
+einen Modifikator von -1 auf alle Beweglichkeitswürfe aber 
+einen Bonus von +1 auf alle Würfe um der Kälte zu widerstehen. 
+Trägst du die Winterkleidung an warmen Orten, hast du einen 
+Malus von -2 um der Hitze zu widerstehen. 
+
+6. Initiative
+Da nicht immer die Initiativekarten vorhanden oder anwendbar 
+sind, werden wir die Initiative mit 1W66 würfeln. Die höhere 
+Zahl beginnt dabei. Haben zwei die gleiche Initiative, geht 
+Spieler vor NSC und danach wird anhand des Verstandwertes 
+die Reihenfolge festgelegt. Ist auch diese gleich, 
+entscheiden die Spieler untereinander.
+
+7. Interstellare Kommunikation
+Eine Nachricht von einem Ende der Galaxie ins andere zu 
+versenden benötigt seine Zeit. Gewöhnlich sind in den 
+Grenzen der UKSK, des 3WE, der UA und der UdpV Sendemasten 
+zu finden, die dafür sorgen, dass die Nachricht schnell 
+weitergeleitet wird. 
+Eine Nachricht in einem Parsec mit einem Sendemast benötigt 
+2 Tage um in den nächsten Parsec zu kommen. Dies ist der 
+Fall in den Gebieten der Großmächte. 
+Eine Nachricht im Grenzraum benötigt etwa 3 Tage um den 
+nächsten Parsec zu erreichen und eine Nachricht in einem 
+Parsec ohne Zugehörigkeit braucht 4 Tage um den nächsten 
+zu erreichen.
+Dabei gilt immer, dass im jeweiligen Parsec geguckt wird. 
+Es wird immer die schnellste Verbindung in einem Parsec 
+gewählt. 
+
+8. Bluten
+Es kann sein, dass ein Charakter beginnt zu Bluten. Der 
+Bluteneffekt kann nur bei Waffen ausgelöst werden, die diese 
+Eigenschaft besitzen. Wenn ein Charakter blutet, wird ein 
+Würfelpool gleich der Schadenshöhe geworfen. Jede 6 ist ein 
+Schadenspunkt.Die Anzahl der Würfel im Pool verringert sich 
+jede Runde, bis keine Würfel mehr vorhanden sind, der 
+Charakter gebrochen ist oder erfolgreich Medizinische Hilfe 
+angewendet wurde.
+
+9. Schiffsenergie
+Ein Raumschiff benötigt Energie und diese bekommt es aus den 
+Reaktoren. Diese Energie muss aber umverteilt werden, wenn 
+die Energie nicht für alle Systeme ausreicht. Es können 
+einzelne Module an- und abgeschaltet werden um Energie zu 
+sparen oder die Module nutzbar zu machen.
+Ein Modul ohne Energie ist nutzlos. Abgeschaltete Kernmodule 
+reduzieren dabei die Signatur des Schiffes. 
+Die Waffensysteme können nicht ohne ein eingeschaltetes 
+Brückensystem abgefeuert werden. Ebensowenig können ein 
+Atmospährenschild und und die Tarkappentechnik eingesetzt 
+werden.
+Die Sensoren können überlastet werden und geben somit einen 
+höheren Bonus, allerdings erhöhen sich auch die Signatur und 
+die verbrauchte Energie. Gleiches gilt für das Brückensystem.
+Das Schiff verfügt über einen Gravitationsgenerator, der es 
+erlaubt die Gravitation zu ändern. Ist er aktiv, verbraucht 
+er 0,5 Energie, die restliche Energie ist gleich der 
+gewünschten G-Kraft.
+Die Energie kann für gewöhnlich von der Brücke oder den 
+Schiffsterminals aus verteilt werden. Allerdings kann es 
+dazu kommen, Dass der Reaktor einen leichten 
+Komponentenschaden davonträgt. Dann muss die Energie am 
+Reaktor mithilfe eines Wurfes auf SCHWERE MASCHINEN oder auf 
+der Brücke mithilfe von COMTECH -2 erfolgen.
+Einen Kurs ohne Brücke einzugeben erfordert Zugang zu den 
+Triebwerken und einen erfolgreichen Wurf auf 
+SCHWERE MASCHINEN -3 sowie COMTECH -3. Dies gilt sowhl für 
+Unterlicht- als auch Überlichtreisen.
+
+10. Raumangriffe
+Wer viele Waffen hat, will im Raumkampf häufig feuern. Jedes 
+Geschütz kann daher im Raumkampf einmal pro Runde feuern, es 
+sei denn das Geschütz ist unbesetzt.
+
+11. Unaufgeschaltetes Ziel angreifen
+Im Raumkampf ist es vorzuziehen den Gegner anzuvisieren. Wenn
+jedoch die Sensoren Schaden genommen haben, oder der Gegner 
+einfach nicht anvisiert werden kann, so ist es möglich auf 
+Sicht zu schießen. Dies ist aufgrund der extremen 
+Entfernungen jedoch sehr schwer.
+Der Richtschütze erhält daher einen Malus von -2 pro 
+Zonenentfernung. Lediglich in der gleichen Zone beträgt der 
+Malus -1.
+
+12. Wegstoßen
+Der Charakter kann einen Gegner in KONTAKT Reichweite 
+wegstoßen und muss dafür einen vergleichenden Wurf auf 
+Nahkampf ablegen. Dieser Wurf richtet keinen Schaden an und 
+verbraucht eine schnelle Aktion. Der Gegner befindet sich 
+nun in kurzer Reichweite. Dies funktioniert nur bei Gegnern, 
+die etwa gleich groß sind.
+
+13. Freunde und Rivalen
+Im Laufe der Kampange wird ein Charakter auf einige Personen 
+treffen, die er mag oder auch nicht. Der Charakter kann in 
+jeder Session oder am Ende eines Aktes den Freund und Feind 
+ändern. Diese Person muss nicht unbedingt ein NSC sein, 
+sondern kann auch gerne aus der Spielergruppe stammen. 
+
+14. Session und Akt
+Die Oneshots werden für gewöhnlich in 3 Akte unterteilt, 
+obgleich es in seltenen Fällen auch bis zu 7 sein können. In 
+einer Kampange ist dies nicht so einfach zu unterteilen. Jede
+Zusammenkunft, bei der gespielt wird ist eine Session.
+Ein Akt ist derweil während einer Session ein Punkt, an dem 
+man gut einen Cut machen könnte. Ein Beispiel hierfür wäre, 
+wenn sich alle Charaktere schlafen legen. Es kann aber auch 
+sein, dass ein Akt dann endet, wenn eine schwerwiegende 
+Entdeckung gemacht wurde.
+Zwischen einzelnen Akten kann der Charakter seine Motivation, 
+seinen Freund und seinen Feind ändern. Zudem darf auf das 
+Erlernen von Talenten gewürfelt werden, die jedoch nur 
+zwischen Sessions gekauft werden dürfen.
+
+15. Charakteraufstiege
+Die Charaktere werden sich im Lauf der Kampange 
+weiterentwickeln. Am Ende einer Session erhält ein Charakter 
+eine bestimmte Anzahl an Erfahrungspunkten, die für Talente 
+und Fertigkeiten ausgegeben werden dürfen.
+Ein Talent wird erst gekauft und dann wird laut GRW mit 
+Verstand gewürfelt, ob der Charakter das Talent auch 
+einsetzen kann. Im Lauf dieser Kampange erhält der Charakter 
+einen Bonus von +2 auf diesen Wurf. 
+Talente wie Fertigkeiten kosten 5 Erfahrungspunkte.
+
+16. Storypunkte
+Storypunkte erlauben es dem Spieler einen  Wurf zu 
+wiederholen oder aber eine 1 von einem Stresswürfel zu 
+negieren. Ein Spieler darf maximal 3 Storypunkte haben. 
+Einen Storypunkt darf er am Ende einer Session für 2 
+Erfahrung umwandeln. 
+Die Storypunkte sind eine Ressource für den Spieler, nicht 
+den Charakter. Bedeutet, dass auch der Charakter gewechselt 
+werden kann, die Storypunkte aber erhalten bleiben.
+
+17. Jeder Spieler darf sich Backupcharaktere erstellen, die 
+auch Berufe haben, die nicht im Grundregelwerk sind. Es 
+dürfen auch eigene Berufe und Talente erstellt werden, diese 
+müssen aber vor der Nutzung durch die Spielmutter abgesegnet 
+werden.
+
+18. Weitere Regeln
+Regeln, die nicht während des Session 0 besprochen und 
+angenommen wurden, dürfen zwischen den Sessions nach 
+Absprache eingeführt werden. Dies gilt sowohl für Regeln, 
+die von den Spielern, als auch von der Spielmutter gefunden 
+oder erstellt wurden. 

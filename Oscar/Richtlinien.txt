@@ -1,0 +1,29 @@
+1. Notsignalen ist immer nachzugehen, gleich der
+Dringlichkeit des aktuellen Auftrages.
+
+2. Alle zivilen Raumfahrzeuge müssen ihren Transponder
+aktiviert haben. Dieser gibt folgende Informationen:
+-Schiffsposition
+-Schiffsname
+-Schiffsklasse
+-Heimathafen
+-Zielhafen
+
+3. Die Triage ist zu beachten.
+
+4. Ein Schiff darf den Raumhafen nur mit der vollen Zahl
+Rettungskapseln und Hilfsfahrzeugen verlassen.
+
+5. Ein Schiff muss mindestens genau so viele Rettungs-
+kapseln wie Crewmitglieder besitzen.
+
+6. Jedes Crewmitglied eines komerziellen Raumfahreuges
+benötigt eine ICC-Lizenz.
+
+7. Extraterrestische Lebensformen und unbekannte
+Krankheiten duerfen keinesfalls auf das Schiff gelangen.
+Ist es jedoch notwendig, Zwecks einer medizinischen 
+Behandlung, muss der Träger/das Subjekt sofort isoliert 
+werden.
+Der Isolationsraum darf nicht mit dem Sauerstofffilter
+des Schiffes verbunden sein, sondern benötigt einen eignen.
